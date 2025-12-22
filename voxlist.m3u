@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="КРЕАТОРЫ", SCRIPACH TV
+http://195.9.195.3:8080/hls/217083.m3u8
+#EXTINF:-1 group-title="КРЕАТОРЫ", and
+http://195.9.195.3:8080/hls/218531.m3u8
