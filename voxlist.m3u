@@ -1,8 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="ПЛЕЙЛИСТ ТОРМОЗИТ?", T.ME/REVOLYO
 https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/xdJ3QPK5fYU3Wg
-#EXTINF:-1 group-title="ОБНОВЛЕНИЕ 10.01.26", T.ME/VOXLIST
+#EXTINF:-1 group-title="ОБНОВЛЕНИЕ 12.01.26", T.ME/VOXLIST
 https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/oBxv_r1JYTK3tQ
+
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=".Black" tvg-logo="" group-title="КИНО",.Black
@@ -33,8 +34,6 @@ http://176.126.166.43:1935/live/312musik/playlist.m3u8
 http://176.118.197.125/360_HD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="365 дней" tvg-logo="" group-title="КИНО",365 дней
 http://176.118.197.125/365_dney_tv/index.m3u8
-#EXTINF:-1 tvg-id="6 кадров" tvg-name="6 КАДРОВ" tvg-logo="http://i124.fastpic.org/big/2025/0318/3e/27b3b295cc58ad8d53bb483e26564d3e.png" group-title="КИНО",6 КАДРОВ
-https://live-mirror-19.ott.tricolor.tv/dtv/id1016_MSKSG-PVR-1--Kinozal28_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="БАНДИТСКИЙ ПЕТЕРБУРГ" tvg-logo="https://sun9-71.userapi.com/c4226/u16211411/121473247/x_fa9a2340.jpg" group-title="КИНО",БАНДИТСКИЙ ПЕТЕРБУРГ
 https://live-mirror-20.ott.tricolor.tv/dtv/id1038_MSKSG-PVR-1--Kinozal_32/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Беларусь 3 HD" tvg-logo="" group-title="КИНО",Беларусь 3 HD
@@ -47,8 +46,6 @@ http://hls127.freeott.top:8080/Bober/mono.m3u8
 http://176.118.197.125/Bober/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Бобёр" tvg-logo="" group-title="КИНО",Бобёр
 http://hls127.freeott.top:8080/Bober/mono.m3u8
-#EXTINF:-1 tvg-id="Боевики HD" tvg-name="БОЕВИКИ HD" tvg-logo="http://i124.fastpic.org/big/2025/0304/7d/98912aae9ea5af7e659cc2324ffed47d.png" group-title="КИНО",БОЕВИКИ HD
-https://stream-msk-19.ott.tricolor.tv/dtv/id995_MSKSG-PVR-1--Kinopokaz_2/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Военный" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="КИНО",Военный
 https://fl1001.bozztv.com/ushba16/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Время" tvg-logo="" group-title="КИНО",Время
@@ -89,8 +86,6 @@ http://188.225.31.197/bpk-tv/000003392/tve/index.m3u8
 http://193.27.209.122/dorama/index.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-name="Дорама HD" tvg-logo="" group-title="КИНО",Дорама HD
 http://176.96.241.40/Dorama/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дорама HD" tvg-logo="" group-title="КИНО",Дорама HD
-http://stream-msk-05.ott.tricolor.tv/dtv/id497_MSKSG-PVR-1--Dorama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Драйв" tvg-logo="" group-title="КИНО",Драйв
 http://176.118.197.125/Draiv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Душевное HD" tvg-logo="" group-title="КИНО",Душевное HD
@@ -123,8 +118,6 @@ http://188.113.190.12/329/index.m3u8
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Индия ТВ" tvg-logo="http://ttvrun.one/uploads/tVif7GSM5UlUBrVRpMSDnni6RMcNtk.png" group-title="КИНО",Индия ТВ
 http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
-#EXTINF:-1 tvg-id="Исторический HD" tvg-name="ИСТОРИЧЕСКИЙ HD" tvg-logo="http://i124.fastpic.org/big/2025/0304/c3/9d29366a560ba712d960bb053d8855c3.png" group-title="КИНО",ИСТОРИЧЕСКИЙ HD
-https://live-mirror-19.ott.tricolor.tv/dtv/id1006_MSKSG-PVR-1--kinozal_20_hd/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="История" tvg-logo="" group-title="КИНО",История
 http://hls127.freeott.top:8080/Istoriya/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="История" tvg-logo="" group-title="КИНО",История
@@ -141,8 +134,6 @@ http://194.143.148.28:8080/KINEKO/index.m3u8
 http://194.143.148.28:8080/KINEKO/index.m3u8
 #EXTINF:-1 tvg-id="kineko" tvg-name="Кинеко" tvg-logo="" group-title="КИНО",Кинеко
 http://tv.streams.baikal-telecom.net:8080/KINEKO/index.m3u8
-#EXTINF:-1 tvg-id="kineko" tvg-name="Кинеко HD" tvg-logo="" group-title="КИНО",Кинеко HD
-https://stream-msk-18.ott.tricolor.tv:443/dtv/id992_MSKSG-PVR-1--Kineko_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино 1" tvg-logo="" group-title="КИНО",Кино 1
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино 1 Int." tvg-logo="" group-title="КИНО",Кино 1 Int.
@@ -153,26 +144,10 @@ http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино 1 International" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png" group-title="КИНО",Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино Зал" tvg-logo="" group-title="КИНО",Кино Зал
-https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино и сериалы" tvg-logo="" group-title="КИНО",Кино и сериалы
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино и сериалы HD" tvg-logo="" group-title="КИНО",Кино и сериалы HD
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино ТВ" tvg-logo="" group-title="КИНО",Кино ТВ
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино ТВ" tvg-logo="http://ttvrun.one/uploads/2ugesJUSRNGT6nCY8TMG873wuIfmWO.png" group-title="КИНО",Кино ТВ
 http://185.46.16.239:8000/Kino_TV
-#EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="" group-title="КИНО",Кино ТВ
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="КИНО",Кино ТВ
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="1037" tvg-name="Кино ТВ HD" tvg-logo="http://epg.it999.ru/img/1037.png" group-title="КИНО",Кино ТВ HD
 http://31.148.48.15:80/Kino_TV_HD/index.m3u8?token=test
-#EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ HD" tvg-logo="" group-title="КИНО",Кино ТВ HD
-https://live-mirror-01.ott.tricolor.tv/dtv/id415_MSKSG-PVR-1--Kino_TV_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинодром" tvg-logo="" group-title="КИНО",Кинодром
-http://24124fgrhtytry.akadatel.com/iptv/7B38VC2MRGFSKX/31714/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 1" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="КИНО",Кинозалы 1
 https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинозалы 10" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="КИНО",Кинозалы 10
@@ -281,14 +256,10 @@ http://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.m3u8
 http://176.118.197.101/Kinoseria/index.m3u8
 #EXTINF:-1 tvg-id="kinoseria" tvg-name="Киносерия HD" tvg-logo="" group-title="КИНО",Киносерия HD
 http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
-#EXTINF:-1 tvg-id="kino-tv" tvg-name="КиноТВ" tvg-logo="https://epg.iptvx.one/picons/kino-tv.png" group-title="КИНО",КиноТВ
-https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 tvg-id="rus-hualiang-tv" tvg-name="Китай ТВ" tvg-logo="" group-title="КИНО",Китай ТВ
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кіно TV VHS" tvg-logo="https://i.ibb.co/qWFzwYF/kinozal.png" group-title="КИНО",Кіно TV VHS
 http://195.9.195.3:8080/hls/218531.m3u8
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-name="КЛУБ ВИНКС" tvg-logo="https://i.pinimg.com/736x/e0/71/3c/e0713c09e1bdcd58e8c4e8dff672827a.jpg" group-title="КИНО",КЛУБ ВИНКС
-https://stream-msk-19.ott.tricolor.tv/dtv/id996_MSKSG-PVR-1--Kinopokaz_3/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ключ" tvg-logo="" group-title="КИНО",Ключ
 http://hls127.freeott.top:8080/Kluch/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ключ" tvg-logo="" group-title="КИНО",Ключ
@@ -317,10 +288,6 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id931_MSKSG-PVR-1--Lovestory/01/plst.m
 http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Любимое кино" tvg-logo="" group-title="КИНО",Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
-#EXTINF:-1 tvg-id="nashe-lubimoe-hd" tvg-name="Любимое HD" tvg-logo="" group-title="КИНО",Любимое HD
-https://stream-msk-05.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
-#EXTINF:-1 tvg-id="Мажор" tvg-name="МАЖОР" tvg-logo="http://i124.fastpic.org/big/2025/0304/2d/e7dd079556557c9f26bd56fb527b872d.png" group-title="КИНО",МАЖОР
-https://live-mirror-19.ott.tricolor.tv/dtv/id1018_MSKSG-PVR-1--Kinozal30_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мама" tvg-logo="" group-title="КИНО",Мама
 http://176.118.197.125/Mama/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч ТВ" tvg-logo="" group-title="КИНО",Матч ТВ
@@ -947,8 +914,6 @@ https://fl1001.bozztv.com/ushba-m4/tracks-v1a1/mono.m3u8
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="Logovo Films" tvg-logo="https://img.catcast.tv/uploads/13052022/logos/41660-627e5adaa9772.png" group-title="КИНО",Logovo Films
 https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malder Всё ТВ" tvg-logo="" group-title="КИНО",Malder Всё ТВ
-http://195.9.195.3:8080/hls/153640.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maydan" tvg-logo="" group-title="КИНО",Maydan
 http://hls127.freeott.top:8080/Maydan/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maydan" tvg-logo="" group-title="КИНО",Maydan
@@ -979,8 +944,6 @@ http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
 http://213.230.65.254:8100/play/a05g
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RED Thriller HD" tvg-logo="" group-title="КИНО",RED Thriller HD
 http://213.230.65.254:8100/play/a05h
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO 80 HD" tvg-logo="" group-title="КИНО",RETRO 80 HD
-https://autopilot.catcast.tv/content/38204/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retrovision" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="КИНО",Retrovision
 https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retrovision Кинопанорама" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="КИНО",Retrovision Кинопанорама
@@ -1093,8 +1056,6 @@ http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529671&extensi
 http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529676&extension=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju+ Premiere HD" tvg-logo="" group-title="КИНО",viju+ Premiere HD
 https://stream2.somon.tv/vippremiera/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju+ Serial HD" tvg-logo="" group-title="КИНО",viju+ Serial HD
-http://188.208.197.173:8888/vijuserial/video.m3u8?token=loganet
 #EXTINF:-1 tvg-id="2838" tvg-name="Viju+ Serial HD" tvg-logo="http://epg.it999.ru/img/2838.png" group-title="КИНО",Viju+ Serial HD
 http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529677&extension=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yosso TV New Кино" tvg-logo="" group-title="КИНО",Yosso TV New Кино
@@ -1329,10 +1290,6 @@ http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deluxe Rap" tvg-logo="" group-title="МУЗЫКА",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Downtempo" tvg-logo="https://www.dancetv.net/img/DTlogo.png" group-title="МУЗЫКА",Downtempo
-https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Downtempo" tvg-logo="https://www.dancetv.net/img/DTlogo.png" group-title="МУЗЫКА",Downtempo
-https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EDM Mainstage" tvg-logo="https://www.dancetv.net/img/DTlogo.png" group-title="МУЗЫКА",EDM Mainstage
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EDM Mainstage" tvg-logo="https://www.dancetv.net/img/DTlogo.png" group-title="МУЗЫКА",EDM Mainstage
@@ -1413,12 +1370,6 @@ http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 http://45.145.32.13:20440/mcm_top/index.m3u8?token=test
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Meidan TV HD" tvg-logo="" group-title="МУЗЫКА",Meidan TV HD
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Melodic Tech" tvg-logo="https://www.dancetv.net/img/DTlogo.png" group-title="МУЗЫКА",Melodic Tech
-https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Melodic Tech" tvg-logo="https://www.dancetv.net/img/DTlogo.png" group-title="МУЗЫКА",Melodic Tech
-https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
-#EXTINF:-1 tvg-id="mezzo" tvg-name="Mezzo" tvg-logo="" group-title="МУЗЫКА",Mezzo
-http://stream-msk-12.ott.tricolor.tv/dtv/id365_MSKSG-PVR-1--Mezzo/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mezzo Live HD" tvg-logo="" group-title="МУЗЫКА",Mezzo Live HD
 http://cdn.voka.tv/live/871-req_5k_v5.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Minimal / Deep Tech" tvg-logo="https://www.dancetv.net/img/DTlogo.png" group-title="МУЗЫКА",Minimal / Deep Tech
@@ -1429,16 +1380,6 @@ https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
 http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moleta Mix" tvg-logo="" group-title="МУЗЫКА",Moleta Mix
 https://panel.tvstream.cl:1936/8040/8040/chunklist_w360765263.m3u8
-#EXTINF:-1 tvg-id="MTV 00s" tvg-name="MTV 00s" tvg-logo="https://i115.fastpic.org/big/2021/0924/da/e9553d8d3ca3ce2d60edaa773b02dcda.png" group-title="МУЗЫКА",MTV 00s
-http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/132726
-#EXTINF:-1 tvg-id="mtv-80s-uk" tvg-name="MTV 80's" tvg-logo="" group-title="МУЗЫКА",MTV 80's
-http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/360620
-#EXTINF:-1 tvg-id="mtv90s-uk" tvg-name="MTV 90's" tvg-logo="" group-title="МУЗЫКА",MTV 90's
-http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/230486
-#EXTINF:-1 tvg-id="mtv-hits" tvg-name="MTV Hits HD" tvg-logo="" group-title="МУЗЫКА",MTV Hits HD
-http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/227566
-#EXTINF:-1 tvg-id="mtv-live-hd" tvg-name="MTV Live" tvg-logo="" group-title="МУЗЫКА",MTV Live
-http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/330018
 #EXTINF:-1 tvg-id="hlsproxy-2" tvg-name="no epg музыка" tvg-logo="http://45.159.189.42/Logo/olsib_Galicia.png" group-title="МУЗЫКА",no epg музыка
 https://isaocorp.cloudecast.com/toptv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Now 70's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/200px-NOW_70s.png" group-title="МУЗЫКА",Now 70's
@@ -1459,10 +1400,6 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Now 90's HD" tvg-logo="" group-title="МУЗЫКА",Now 90's HD
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="NR1 DANCE HD" tvg-logo="https://im1.lixty.com/images/power-dance-604221-logo.jpg?w=160" group-title="МУЗЫКА",NR1 DANCE HD
-http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/439188
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="NR1 DANCE HD" tvg-logo="https://www.coolstreaming.us/img/ch/ima22175171133.jpg" group-title="МУЗЫКА",NR1 DANCE HD
-http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/439284
 #EXTINF:-1 tvg-id="no_epg_music" tvg-name="O!2" tvg-logo="https://tvradioo.ru/wp-content/uploads/2021/01/o2tv.png" group-title="МУЗЫКА",O!2
 https://stream-msk-17.ott.tricolor.tv/dtv/id981_MSKSG-PVR-1--O2_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ocko Expres" tvg-logo="https://i.postimg.cc/d0TTSH94/ewewe.jpg" group-title="МУЗЫКА",Ocko Expres
@@ -2307,12 +2244,6 @@ https://live-mirror-18.ott.tricolor.tv/dtv/id990_MSKSG-PVR-1--We_HD/02/plst.m3u8
 http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Надежда" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Надежда
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Наука" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Наука
-http://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Наука" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Наука
-http://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 tvg-id="nauka-20" tvg-name="Наука" tvg-logo="https://iptvx.one/picons/nauka-20.png" group-title="РАЗВЛЕЧЕНИЕ",Наука
-https://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 tvg-id="nauka-20" tvg-name="Наука 2.0 HD" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Наука 2.0 HD
 http://stream-msk-10.ott.tricolor.tv/dtv/id653_MSKSG-PVR-1--Nauka_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Наука HD" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Наука HD
@@ -2429,8 +2360,6 @@ http://178.212.71.253:8000/play/96/index.m3u8
 https://live-stream-10.ott.tricolor.tv/live/live/Friday_0_hd/hls_enc/Friday_0_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
 #EXTINF:-1 tvg-id="piatnica-int" tvg-name="Пятница International" tvg-logo="https://iptvx.one/picons/piatnica-int.png" group-title="РАЗВЛЕЧЕНИЕ",Пятница International
 https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятница!" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Пятница!
-https://vod.tuva.ru/friday/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_music" tvg-name="Радио Kids FM" tvg-logo="https://radiokids.fm/wp-content/themes/sanfirst/images/logo.png" group-title="РАЗВЛЕЧЕНИЕ",Радио Kids FM
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="radost-moya" tvg-name="Радость моя" tvg-logo="https://iptvx.one/picons/radost-moya.png" group-title="РАЗВЛЕЧЕНИЕ",Радость моя
@@ -2715,8 +2644,6 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1 tvg-id="ducktv" tvg-name="Duck TV HD" tvg-logo="https://epg.iptvx.one/picons/ducktv.png" group-title="РАЗВЛЕЧЕНИЕ",Duck TV HD
 http://hls.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTU1MDMxODAsImlhdCI6MTc1NTQxNjc4MCwiY2lkIjo2LCJ1aWQiOjkzNzY1NTUwNiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.5FYvzeyZA9STMnik51rENU_zjEJdnw8L0_Foux7dqaE&offset=3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E TV" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",E TV
-http://stream-msk-09.ott.tricolor.tv/dtv/id484_MSKSG-PVR-1--Telekanal_E_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Epic" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Epic
 http://193.25.8.59:8000/dtx
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion Channel" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="РАЗВЛЕЧЕНИЕ",Fashion Channel
@@ -2801,40 +2728,6 @@ http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
 https://vod.splay.uz/live_splay/original/Nickelodeon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-name="Ocean TV" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Ocean TV
 https://stream-msk-09.ott.tricolor.tv/dtv/id872_MSKSG-PVR-1--OCEAN_TV/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
-#EXTINF:-1 tvg-id="no_epg" tvg-name="Relax 1" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="РАЗВЛЕЧЕНИЕ",Relax 1
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64331.ts
-#EXTINF:-1 tvg-id="no_epg" tvg-name="Relax 10" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="РАЗВЛЕЧЕНИЕ",Relax 10
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/244486.ts
-#EXTINF:-1 tvg-id="no_epg" tvg-name="Relax 11" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="РАЗВЛЕЧЕНИЕ",Relax 11
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/65376.ts
-#EXTINF:-1 tvg-id="no_epg" tvg-name="Relax 12" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="РАЗВЛЕЧЕНИЕ",Relax 12
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/264811.ts
-#EXTINF:-1 tvg-id="no_epg" tvg-name="Relax 13" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="РАЗВЛЕЧЕНИЕ",Relax 13
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/246028.ts
-#EXTINF:-1 tvg-id="no_epg" tvg-name="Relax 14" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="РАЗВЛЕЧЕНИЕ",Relax 14
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/66287.ts
-#EXTINF:-1 tvg-id="no_epg" tvg-name="Relax 15" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="РАЗВЛЕЧЕНИЕ",Relax 15
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/81968.ts
-#EXTINF:-1 tvg-id="no_epg" tvg-name="Relax 16" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="РАЗВЛЕЧЕНИЕ",Relax 16
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/66433.ts
-#EXTINF:-1 tvg-id="no_epg" tvg-name="Relax 17" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="РАЗВЛЕЧЕНИЕ",Relax 17
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64782.ts
-#EXTINF:-1 tvg-id="no_epg" tvg-name="Relax 2" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="РАЗВЛЕЧЕНИЕ",Relax 2
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64332.ts
-#EXTINF:-1 tvg-id="no_epg" tvg-name="Relax 3" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="РАЗВЛЕЧЕНИЕ",Relax 3
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64330.ts
-#EXTINF:-1 tvg-id="no_epg" tvg-name="Relax 4" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="РАЗВЛЕЧЕНИЕ",Relax 4
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/65374.ts
-#EXTINF:-1 tvg-id="no_epg" tvg-name="Relax 5" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="РАЗВЛЕЧЕНИЕ",Relax 5
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64777.ts
-#EXTINF:-1 tvg-id="no_epg" tvg-name="Relax 6" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="РАЗВЛЕЧЕНИЕ",Relax 6
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64781.ts
-#EXTINF:-1 tvg-id="no_epg" tvg-name="Relax 7" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="РАЗВЛЕЧЕНИЕ",Relax 7
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/65375.ts
-#EXTINF:-1 tvg-id="no_epg" tvg-name="Relax 8" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="РАЗВЛЕЧЕНИЕ",Relax 8
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64822.ts
-#EXTINF:-1 tvg-id="no_epg" tvg-name="Relax 9" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" group-title="РАЗВЛЕЧЕНИЕ",Relax 9
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/100624.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retrovision" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="РАЗВЛЕЧЕНИЕ",Retrovision
 https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retrovision Кинопанорама" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="РАЗВЛЕЧЕНИЕ",Retrovision Кинопанорама
@@ -3031,8 +2924,6 @@ http://178.212.71.253:8000/play/22/index.m3u8
 http://178.212.71.253:8000/play/23/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 Милет" tvg-logo="" group-title="РАЗНОЕ",24 Милет
 http://178.212.71.253:8000/play/24/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 Тува" tvg-logo="" group-title="РАЗНОЕ",24 Тува
-http://vod.tuva.ru/tuva24/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 Kitchen" tvg-logo="" group-title="РАЗНОЕ",24 Kitchen
 http://5.57.74.130:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 TV Turkey" tvg-logo="" group-title="РАЗНОЕ",24 TV Turkey
@@ -3779,8 +3670,6 @@ http://195.26.83.96:7029/play/a009
 https://live2-orsk.cdnvideo.ru/orsk-infochhd/infochhd/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Евразия Орск" tvg-logo="" group-title="РАЗНОЕ",Евразия Орск
 https://live2-orsk.cdnvideo.ru/orsk-infochhd/infochhd/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Евроденс 90х" tvg-logo="" group-title="РАЗНОЕ",Евроденс 90х
-https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Еврокино" tvg-logo="" group-title="РАЗНОЕ",Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Еврокино" tvg-logo="" group-title="РАЗНОЕ",Еврокино
@@ -3904,8 +3793,6 @@ https://flussonic.salomtv.uz/zvezda/video.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Звезда" tvg-logo="" group-title="РАЗНОЕ",Звезда
 http://193.25.8.59:8000/zvezda
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Звезда" tvg-logo="" group-title="РАЗНОЕ",Звезда
-http://85.192.10.131/hls/zvezda/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Звезда" tvg-logo="" group-title="РАЗНОЕ",Звезда
 http://93.170.254.17/Zvezda/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Звезда" tvg-logo="" group-title="РАЗНОЕ",Звезда
 http://95.47.156.60:8000/play/17/index.m3u8
@@ -3917,8 +3804,6 @@ http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 http://45.145.32.13:20440/zvezda/index.m3u8?token=test
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Звезда" tvg-logo="" group-title="РАЗНОЕ",Звезда
 http://5.188.221.43:8080/play/zvezda
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Звезда" tvg-logo="" group-title="РАЗНОЕ",Звезда
-http://85.192.10.131/hls/zvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Звезда" tvg-logo="" group-title="РАЗНОЕ",Звезда
 http://93.170.254.17/Zvezda/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Звезда" tvg-logo="" group-title="РАЗНОЕ",Звезда
@@ -4044,8 +3929,6 @@ http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель" tvg-logo="" group-title="РАЗНОЕ",Карусель
 http://77.232.131.211/Karusel/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель" tvg-logo="" group-title="РАЗНОЕ",Карусель
-http://85.192.10.131/hls/Karusel/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель" tvg-logo="" group-title="РАЗНОЕ",Карусель
 http://93.170.254.17/Karusel/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="КАРУСЕЛЬ" tvg-logo="" group-title="РАЗНОЕ",КАРУСЕЛЬ
 http://95.47.156.60:8000/play/8/index.m3u8
@@ -4072,8 +3955,6 @@ http://45.145.32.13:20440/karusel/index.m3u8?token=test
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель" tvg-logo="" group-title="РАЗНОЕ",Карусель
 http://5.188.221.43:8080/play/karusel
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель" tvg-logo="" group-title="РАЗНОЕ",Карусель
-http://85.192.10.131/hls/Karusel/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель" tvg-logo="" group-title="РАЗНОЕ",Карусель
 http://89.232.68.194:8080/karusel/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель" tvg-logo="" group-title="РАЗНОЕ",Карусель
 http://89.232.68.194:8080/karusel/tracks-v3a1/index.m3u8
@@ -4095,8 +3976,6 @@ http://89.232.68.194:8080/karusel/tracks-v3a1/index.m3u8
 http://95.66.188.74/Karusel/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель Int." tvg-logo="" group-title="РАЗНОЕ",Карусель Int.
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель Int." tvg-logo="" group-title="РАЗНОЕ",Карусель Int.
-https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Катунь 24 (Барнаул)" tvg-logo="" group-title="РАЗНОЕ",Катунь 24 (Барнаул)
 https://live.katun24.ru:8082/katun/katun/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кварц ТВ" tvg-logo="" group-title="РАЗНОЕ",Кварц ТВ
@@ -4375,8 +4254,6 @@ http://live-saha.cdnvideo.ru/saha2/mamont_live.smil/tracks-v2a1/mono.m3u8
 http://live-saha.cdnvideo.ru/saha/mamont/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мамонт ТВ [HD]" tvg-logo="" group-title="РАЗНОЕ",Мамонт ТВ [HD]
 http://live-saha.cdnvideo.ru/saha2/mamont_live.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="mamonttv" tvg-name="Мамонтёнок" tvg-logo="" group-title="РАЗНОЕ",Мамонтёнок
-http://85.192.10.131/hls/MamonRu/playlist.m3u8
 #EXTINF:-1 tvg-id="mamonttv" tvg-name="Мамонтёнок" tvg-logo="" group-title="РАЗНОЕ",Мамонтёнок
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мамонтенок ТВ" tvg-logo="" group-title="РАЗНОЕ",Мамонтенок ТВ
@@ -5086,8 +4963,6 @@ http://31.131.141.195:8000/play/1090/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ОТР" tvg-logo="" group-title="РАЗНОЕ",ОТР
 http://5.188.221.43:8080/play/otr
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ОТР" tvg-logo="" group-title="РАЗНОЕ",ОТР
-http://85.192.10.131/hls/OTR/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ОТР" tvg-logo="" group-title="РАЗНОЕ",ОТР
 http://93.170.254.17/OTR/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ОТР" tvg-logo="" group-title="РАЗНОЕ",ОТР
 http://95.66.188.74/OTR/index.m3u8
@@ -5145,8 +5020,6 @@ http://5.188.221.43:8080/play/ort
 http://89.232.68.194:8080/1kanal/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый канал" tvg-logo="" group-title="РАЗНОЕ",Первый канал
 http://95.66.188.74/PerviyKanal/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый канал Европа" tvg-logo="" group-title="РАЗНОЕ",Первый канал Европа
-https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый канал HD" tvg-logo="" group-title="РАЗНОЕ",Первый канал HD
 http://95.66.188.74/PerviyHD/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый канал HD" tvg-logo="" group-title="РАЗНОЕ",Первый канал HD
@@ -5187,8 +5060,6 @@ http://live-3.otcnet.ru/pskov/index.m3u8
 http://live-3.otcnet.ru/pskov/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый Псковский" tvg-logo="" group-title="РАЗНОЕ",Первый Псковский
 http://live-3.otcnet.ru/pskov/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый Республиканский" tvg-logo="" group-title="РАЗНОЕ",Первый Республиканский
-https://streaming.televizor-24-tochka.ru/live/27-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ПЕРВЫЙ ТУЛЬСКИЙ" tvg-logo="http://i.otzovik.com/objects/b/790000/782877.png" group-title="РАЗНОЕ",ПЕРВЫЙ ТУЛЬСКИЙ
 http://5.164.24.83/tula/1tv_hi/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ПЕРВЫЙ ТУЛЬСКИЙ" tvg-logo="" group-title="РАЗНОЕ",ПЕРВЫЙ ТУЛЬСКИЙ
@@ -5203,8 +5074,6 @@ https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Перец" tvg-logo="" group-title="РАЗНОЕ",Перец
 https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пингвин Лоло" tvg-logo="" group-title="РАЗНОЕ",Пингвин Лоло
-http://85.192.10.131/hls/pingvinru/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пингвин Лоло" tvg-logo="" group-title="РАЗНОЕ",Пингвин Лоло
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пингвин Лоло" tvg-logo="" group-title="РАЗНОЕ",Пингвин Лоло
@@ -5329,8 +5198,6 @@ http://93.170.254.17/Pyatnica/index.m3u8
 http://vod.tuva.ru/friday/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятница HD" tvg-logo="" group-title="РАЗНОЕ",Пятница HD
 https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятница HD" tvg-logo="" group-title="РАЗНОЕ",Пятница HD
-https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятница!" tvg-logo="" group-title="РАЗНОЕ",Пятница!
 http://45.145.32.13:20440/piatnica/index.m3u8?token=test
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятница!" tvg-logo="" group-title="РАЗНОЕ",Пятница!
@@ -5358,8 +5225,6 @@ https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятый канал" tvg-logo="" group-title="РАЗНОЕ",Пятый канал
 https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятый канал" tvg-logo="" group-title="РАЗНОЕ",Пятый канал
-http://85.192.10.131/hls/5kanal/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятый канал" tvg-logo="" group-title="РАЗНОЕ",Пятый канал
 http://93.170.254.17/5Channel/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ПЯТЫЙ КАНАЛ" tvg-logo="" group-title="РАЗНОЕ",ПЯТЫЙ КАНАЛ
 http://95.47.156.60:8000/play/5/index.m3u8
@@ -5371,8 +5236,6 @@ https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
 http://193.25.8.59:8000/5
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятый канал" tvg-logo="" group-title="РАЗНОЕ",Пятый канал
 http://5.188.221.43:8080/play/5_kanal
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятый канал" tvg-logo="" group-title="РАЗНОЕ",Пятый канал
-http://85.192.10.131/hls/5kanal/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятый канал" tvg-logo="" group-title="РАЗНОЕ",Пятый канал
 http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятый канал" tvg-logo="" group-title="РАЗНОЕ",Пятый канал
@@ -5391,8 +5254,6 @@ http://193.25.8.59:8000/5
 http://31.131.141.195:8000/play/1050/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятый канал" tvg-logo="" group-title="РАЗНОЕ",Пятый канал
 http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Радио 1 [RU]" tvg-logo="" group-title="РАЗНОЕ",Радио 1 [RU]
-http://cdn.radio1.news:1935/rtvp/live/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Радио Говорит Москва (Веб-камера)" tvg-logo="" group-title="РАЗНОЕ",Радио Говорит Москва (Веб-камера)
 http://video.govoritmoskva.ru/rufm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Радио Город FM (ЕКБ)" tvg-logo="" group-title="РАЗНОЕ",Радио Город FM (ЕКБ)
@@ -5413,8 +5274,6 @@ http://new.bezhintercomp.ru:8080/hls/radio/index.m3u8
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Радио Тартип FM" tvg-logo="" group-title="РАЗНОЕ",Радио Тартип FM
 http://89.251.159.37:8080/hls/tartipfm.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Радио Хит ТВ" tvg-logo="" group-title="РАЗНОЕ",Радио Хит ТВ
-http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Радио Центр FM [BY]" tvg-logo="" group-title="РАЗНОЕ",Радио Центр FM [BY]
 https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Радио Шансон ТВ HD" tvg-logo="" group-title="РАЗНОЕ",Радио Шансон ТВ HD
@@ -6283,8 +6142,6 @@ http://95.66.188.74/CTC_HD/mono.m3u8
 http://95.66.188.74/CTC_HD/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС HD" tvg-logo="" group-title="РАЗНОЕ",СТС HD
 https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС HD" tvg-logo="" group-title="РАЗНОЕ",СТС HD
-https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС International" tvg-logo="" group-title="РАЗНОЕ",СТС International
 https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС Kids" tvg-logo="" group-title="РАЗНОЕ",СТС Kids
@@ -6301,8 +6158,6 @@ http://62.89.220.15/streams/media/sts-kids_720x576/index.m3u8
 https://livetv.mylifeisgood.net.ru/channels/ctckids.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС Kids HD" tvg-logo="" group-title="РАЗНОЕ",СТС Kids HD
 http://31.148.48.15:80/STS_Kids_HD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС Kids HD" tvg-logo="" group-title="РАЗНОЕ",СТС Kids HD
-https://livetv.mylifeisgood.net.ru/channels/ctckids.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС Love" tvg-logo="" group-title="РАЗНОЕ",СТС Love
 https://livetv.mylifeisgood.net.ru/channels/stslove.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС Love" tvg-logo="" group-title="РАЗНОЕ",СТС Love
@@ -6542,8 +6397,6 @@ https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="РАЗНОЕ",ТНТ
 http://5.188.221.43:8080/play/tnt
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="РАЗНОЕ",ТНТ
-http://85.192.10.131/hls/tnt/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="РАЗНОЕ",ТНТ
 http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="РАЗНОЕ",ТНТ
 http://93.170.254.17/TNT/index.m3u8
@@ -6555,8 +6408,6 @@ http://95.66.188.74/TNT/index.m3u8
 http://95.66.188.74/TNT/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="РАЗНОЕ",ТНТ
 http://95.66.188.74:80/TNT/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="РАЗНОЕ",ТНТ
-http://85.192.10.131/hls/tnt/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="РАЗНОЕ",ТНТ
 http://93.170.254.17/TNT/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="РАЗНОЕ",ТНТ
@@ -6601,8 +6452,6 @@ http://95.66.188.74/THT4/mono.m3u8
 http://176.118.197.101/TNT4/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ4" tvg-logo="" group-title="РАЗНОЕ",ТНТ4
 http://193.25.8.59:8000/tntcomedy
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ4 HD" tvg-logo="" group-title="РАЗНОЕ",ТНТ4 HD
-https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ4 HD" tvg-logo="" group-title="РАЗНОЕ",ТНТ4 HD
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ4 Int." tvg-logo="" group-title="РАЗНОЕ",ТНТ4 Int.
@@ -7047,8 +6896,6 @@ http://timeshift.arpinet.am/237/index.m3u8
 http://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ARTN" tvg-logo="" group-title="РАЗНОЕ",ARTN
 https://streamer1.connectto.com/ARTN_mobile/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AS TV" tvg-logo="" group-title="РАЗНОЕ",AS TV
-https://best-str.nettv.cdn.united.cloud/stream?sp=partners&u=partners&p=yN93H7NTrMkx&stream=sp1400&adaptive=false&channel=channel1-srpaac&player=m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asgabat (Turkm)" tvg-logo="" group-title="РАЗНОЕ",Asgabat (Turkm)
 http://217.174.225.146/legacyhls/ch006_720/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asharq News" tvg-logo="" group-title="РАЗНОЕ",Asharq News
@@ -7437,8 +7284,6 @@ https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist.m3u8
 https://streamcdnb1-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/chunklist_b928000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canale 3 Toscana" tvg-logo="" group-title="РАЗНОЕ",Canale 3 Toscana
 https://stream12.xdevel.com/video0s976737-2667/stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canale 7" tvg-logo="" group-title="РАЗНОЕ",Canale 7
-http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canale 81" tvg-logo="" group-title="РАЗНОЕ",Canale 81
 https://5f22d76e220e1.streamlock.net/canale81lazio/canale81lazio/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canale 88 Made in Bo" tvg-logo="" group-title="РАЗНОЕ",Canale 88 Made in Bo
@@ -7657,16 +7502,12 @@ https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dance Television 3" tvg-logo="" group-title="РАЗНОЕ",Dance Television 3
 https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dance Television 4" tvg-logo="" group-title="РАЗНОЕ",Dance Television 4
-https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dance Television 6" tvg-logo="" group-title="РАЗНОЕ",Dance Television 6
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dance Television 7" tvg-logo="" group-title="РАЗНОЕ",Dance Television 7
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dance Television 8" tvg-logo="" group-title="РАЗНОЕ",Dance Television 8
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dance Television 9" tvg-logo="" group-title="РАЗНОЕ",Dance Television 9
-https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBM TV" tvg-logo="" group-title="РАЗНОЕ",DBM TV
 http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Delta TV" tvg-logo="" group-title="РАЗНОЕ",Delta TV
@@ -7689,8 +7530,6 @@ https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dios Teve" tvg-logo="" group-title="РАЗНОЕ",Dios Teve
 http://s.emisoras.tv:8080/diostevetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disco Mix" tvg-logo="" group-title="РАЗНОЕ",Disco Mix
-http://185.128.97.154:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel Asia" tvg-logo="" group-title="РАЗНОЕ",Discovery Channel Asia
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel Bulgaria" tvg-logo="" group-title="РАЗНОЕ",Discovery Channel Bulgaria
@@ -7795,8 +7634,6 @@ https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunkl
 https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duck TV" tvg-logo="" group-title="РАЗНОЕ",Duck TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4632
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dunya News" tvg-logo="" group-title="РАЗНОЕ",Dunya News
-https://imob.dunyanews.tv/livehd/_definst_/dunyalivehd_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dunya TV" tvg-logo="" group-title="РАЗНОЕ",Dunya TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/dunya-tv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dvojka" tvg-logo="" group-title="РАЗНОЕ",Dvojka
@@ -7953,8 +7790,6 @@ https://rst2.saiuzwebnetwork.it:8081/extratvlive/tracks-v1a1/mono.ts.m3u8
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Extremadura TV" tvg-logo="" group-title="РАЗНОЕ",Extremadura TV
 https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/canalextremadura/live_hd/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Extreme Sports" tvg-logo="" group-title="РАЗНОЕ",Extreme Sports
-http://45.11.139.43:8555/extsport/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Face TV" tvg-logo="" group-title="РАЗНОЕ",Face TV
 http://23.88.66.93/Face/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Factoria TV HD" tvg-logo="" group-title="РАЗНОЕ",Factoria TV HD
@@ -7997,8 +7832,6 @@ https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
 http://92.118.251.84:8080/film4/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Box" tvg-logo="" group-title="РАЗНОЕ",Film Box
 http://193.25.8.59:8000/FilmBOX
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film UA Drama" tvg-logo="" group-title="РАЗНОЕ",Film UA Drama
-http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film UA Drama" tvg-logo="" group-title="РАЗНОЕ",Film UA Drama
 http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Filmax 1" tvg-logo="" group-title="РАЗНОЕ",Filmax 1
@@ -8118,8 +7951,6 @@ https://lbcdn.6cloud.fr/resource/m6web/l/gulli_hls_sd_short_q2hyb21h.m3u8?groups
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gulli Girl" tvg-logo="" group-title="РАЗНОЕ",Gulli Girl
 http://213.230.65.254:8000/play/a027
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gulli Girl" tvg-logo="" group-title="РАЗНОЕ",Gulli Girl
-https://livetv.mylifeisgood.net.ru/channels/gulli.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gulli Girl" tvg-logo="" group-title="РАЗНОЕ",Gulli Girl
 http://176.118.197.125/Gulli-Girl/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gulli Girl" tvg-logo="" group-title="РАЗНОЕ",Gulli Girl
 http://62.89.220.15/streams/media/gulli-girl_720x576/index.m3u8
@@ -8153,8 +7984,6 @@ http://netstreaming.eu/hd365.m3u8
 https://livetv.mylifeisgood.net.ru/channels/hdlife.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HD Life" tvg-logo="" group-title="РАЗНОЕ",HD Life
 https://livetv.mylifeisgood.net.ru/channels/hdlife.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hechos TV" tvg-logo="" group-title="РАЗНОЕ",Hechos TV
-https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Heins TV DE" tvg-logo="" group-title="РАЗНОЕ",Heins TV DE
 https://h057.video-stream-hosting.de/heinstv-live/_definst_/smil:livestream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hi Hop TV" tvg-logo="" group-title="РАЗНОЕ",Hi Hop TV
@@ -8243,30 +8072,18 @@ http://178.212.71.253:8000/play/113/index.m3u8
 http://178.212.71.253:8000/play/114/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I15 Русский Бестселер" tvg-logo="" group-title="РАЗНОЕ",I15 Русский Бестселер
 http://178.212.71.253:8000/play/115/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I16 Мульт и Музыка" tvg-logo="" group-title="РАЗНОЕ",I16 Мульт и Музыка
-http://178.212.71.253:8000/play/116/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I17 Моя Планета" tvg-logo="" group-title="РАЗНОЕ",I17 Моя Планета
 http://178.212.71.253:8000/play/117/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I18 Русский Экстрим" tvg-logo="" group-title="РАЗНОЕ",I18 Русский Экстрим
-http://178.212.71.253:8000/play/118/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I19 КВН" tvg-logo="" group-title="РАЗНОЕ",I19 КВН
 http://178.212.71.253:8000/play/119/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I21 8 Kanal" tvg-logo="" group-title="РАЗНОЕ",I21 8 Kanal
 http://178.212.71.253:8000/play/121/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I22 Киносвидание" tvg-logo="" group-title="РАЗНОЕ",I22 Киносвидание
 http://178.212.71.253:8000/play/122/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I23 КиноХит" tvg-logo="" group-title="РАЗНОЕ",I23 КиноХит
-http://178.212.71.253:8000/play/123/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I24 Мосфильм" tvg-logo="" group-title="РАЗНОЕ",I24 Мосфильм
 http://178.212.71.253:8000/play/124/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I24 News English" tvg-logo="" group-title="РАЗНОЕ",I24 News English
-https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I24 News France" tvg-logo="" group-title="РАЗНОЕ",I24 News France
-https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I24 News Israel" tvg-logo="" group-title="РАЗНОЕ",I24 News Israel
 https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I25 Кинопремьера HD" tvg-logo="" group-title="РАЗНОЕ",I25 Кинопремьера HD
-http://178.212.71.253:8000/play/125/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I26 Мужское Кино" tvg-logo="" group-title="РАЗНОЕ",I26 Мужское Кино
 http://178.212.71.253:8000/play/126/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I27 Киносемья" tvg-logo="" group-title="РАЗНОЕ",I27 Киносемья
@@ -8277,8 +8094,6 @@ http://178.212.71.253:8000/play/128/index.m3u8
 http://178.212.71.253:8000/play/129/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I30 Звезда+" tvg-logo="" group-title="РАЗНОЕ",I30 Звезда+
 http://178.212.71.253:8000/play/130/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I31 Ностальгия" tvg-logo="" group-title="РАЗНОЕ",I31 Ностальгия
-http://178.212.71.253:8000/play/131/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I32 Кто Есть Кто" tvg-logo="" group-title="РАЗНОЕ",I32 Кто Есть Кто
 http://178.212.71.253:8000/play/132/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I33 КиноУжас" tvg-logo="" group-title="РАЗНОЕ",I33 КиноУжас
@@ -8311,8 +8126,6 @@ https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ideaal TV" tvg-logo="" group-title="РАЗНОЕ",Ideaal TV
 https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IDJ TV" tvg-logo="" group-title="РАЗНОЕ",IDJ TV
-https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ifilm 2" tvg-logo="" group-title="РАЗНОЕ",Ifilm 2
 http://live.presstv.ir/hls/ifilm2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ifilm Arabic" tvg-logo="" group-title="РАЗНОЕ",Ifilm Arabic
@@ -8323,8 +8136,6 @@ http://live.presstv.ir/hls/ifilmen.m3u8
 http://live.presstv.ir/hls/ifilmfa.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ILTV" tvg-logo="" group-title="РАЗНОЕ",ILTV
 http://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Imas TV" tvg-logo="" group-title="РАЗНОЕ",Imas TV
-http://secure3.todostreaming.es/live/imastv-livestream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Imedi" tvg-logo="" group-title="РАЗНОЕ",Imedi
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Impact TV Dance" tvg-logo="" group-title="РАЗНОЕ",Impact TV Dance
@@ -8347,8 +8158,6 @@ https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
 https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/stream_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Inter TV" tvg-logo="" group-title="РАЗНОЕ",Inter TV
 http://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Investigation Discovery HD" tvg-logo="" group-title="РАЗНОЕ",Investigation Discovery HD
-https://livetv.mylifeisgood.net.ru/channels/discoveryxtra.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Investigation Discovery HD" tvg-logo="" group-title="РАЗНОЕ",Investigation Discovery HD
 https://livetv.mylifeisgood.net.ru/channels/discoveryxtra.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Invivo Extreme" tvg-logo="" group-title="РАЗНОЕ",Invivo Extreme
@@ -8431,8 +8240,6 @@ http://edge3.uk.kab.tv/live/fre-high/chunks.m3u8
 http://edge3.uk.kab.tv/live/por-high/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kabbalah TV (Russian)" tvg-logo="" group-title="РАЗНОЕ",Kabbalah TV (Russian)
 http://edge3.uk.kab.tv/live/tvrus-rus-high/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kan 11" tvg-logo="" group-title="РАЗНОЕ",Kan 11
-http://185.132.134.159:80/kan11/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kan Hinuchit" tvg-logo="" group-title="РАЗНОЕ",Kan Hinuchit
 http://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kanade TV" tvg-logo="" group-title="РАЗНОЕ",Kanade TV
@@ -8477,8 +8284,6 @@ http://185.46.48.18:80/asvtv/index.m3u8
 http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBS World" tvg-logo="" group-title="РАЗНОЕ",KBS World
 https://cdn4.skygo.mn/live/disk1/KBSWorld/HLSv3-FTA/KBSWorld.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kecskemeti TV" tvg-logo="" group-title="РАЗНОЕ",Kecskemeti TV
-http://rtmp1.40e.hu:8000/live/ktv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ketnet Junior" tvg-logo="" group-title="РАЗНОЕ",Ketnet Junior
 https://virtch.vrtcdn.be/v1/channel/KETNET_JUNIOR_PROD_HLS/ketnet_junior_prod_hls-hls.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Key TV" tvg-logo="" group-title="РАЗНОЕ",Key TV
@@ -8513,14 +8318,10 @@ http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
 http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kiss Kiss" tvg-logo="" group-title="РАЗНОЕ",Kiss Kiss
 https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kiss Kiss Italia" tvg-logo="" group-title="РАЗНОЕ",Kiss Kiss Italia
-https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kiss Kiss Napoli" tvg-logo="" group-title="РАЗНОЕ",Kiss Kiss Napoli
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kiss TV (ROM)" tvg-logo="" group-title="РАЗНОЕ",Kiss TV (ROM)
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kitzbuehel TV" tvg-logo="" group-title="РАЗНОЕ",Kitzbuehel TV
-https://livestream.kitzski.at/KitzbuehelTV/KitzbuehelTV_Livestream.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Klan Radio" tvg-logo="" group-title="РАЗНОЕ",Klan Radio
 https://klanradio.tvklan.al/live/klanmusicradio1/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Klape i Tambure TV" tvg-logo="" group-title="РАЗНОЕ",Klape i Tambure TV
@@ -8529,16 +8330,12 @@ https://stream.cmctv.hr:49998/kit/live.m3u8
 http://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Komaromi TV" tvg-logo="" group-title="РАЗНОЕ",Komaromi TV
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kontra TV" tvg-logo="" group-title="РАЗНОЕ",Kontra TV
-https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Konul TV AZ" tvg-logo="" group-title="РАЗНОЕ",Konul TV AZ
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kral Pop TV" tvg-logo="" group-title="РАЗНОЕ",Kral Pop TV
 http://dygvideo.dygdigital.com/live/hls/puhukralpopdai?m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Krone TV" tvg-logo="" group-title="РАЗНОЕ",Krone TV
 https://kronetv.mdn.ors.at/live/eds/kronetv_hd/hls_nodrm/kronetv_hd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kronehit TV" tvg-logo="" group-title="РАЗНОЕ",Kronehit TV
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kronehit TV HD" tvg-logo="" group-title="РАЗНОЕ",Kronehit TV HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTOP TV" tvg-logo="" group-title="РАЗНОЕ",KTOP TV
@@ -8549,8 +8346,6 @@ https://ktvuzivo.rs/memfs/aa5f6ceb-b0e8-46a1-becf-348613489702.m3u8
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kultur MD" tvg-logo="" group-title="РАЗНОЕ",Kultur MD
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/kulturmd_high/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kurdistan" tvg-logo="" group-title="РАЗНОЕ",Kurdistan
-https://5a3ed7a72ed4b.streamlock.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kurdmax" tvg-logo="" group-title="РАЗНОЕ",Kurdmax
 https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kuriakos" tvg-logo="" group-title="РАЗНОЕ",Kuriakos
@@ -8591,10 +8386,6 @@ https://streamcdnb1-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HV
 https://streamcdnb4-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100197/SOrBDPy/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LaC TV" tvg-logo="" group-title="РАЗНОЕ",LaC TV
 https://streamcdnb4-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/chunklist_b3228000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lahore News" tvg-logo="" group-title="РАЗНОЕ",Lahore News
-https://vcdn.dunyanews.tv/lahorelive/_definst_/lnews_1/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Landle TV" tvg-logo="" group-title="РАЗНОЕ",Landle TV
-http://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Legislative Assembly TV Ontario" tvg-logo="" group-title="РАЗНОЕ",Legislative Assembly TV Ontario
 https://temp2.isilive.ca/live/_definst_/ontla/house-en/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lena Radio TV" tvg-logo="" group-title="РАЗНОЕ",Lena Radio TV
@@ -8613,8 +8404,6 @@ http://lifetv.bitflip.ee/live/stream1.m3u8
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Light Channel TV (BG)" tvg-logo="" group-title="РАЗНОЕ",Light Channel TV (BG)
 http://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Light Channel TV DE" tvg-logo="" group-title="РАЗНОЕ",Light Channel TV DE
-https://streamer1.streamhost.org/salive/lctvde/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Liptov TV" tvg-logo="" group-title="РАЗНОЕ",Liptov TV
 http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lira TV Italia" tvg-logo="" group-title="РАЗНОЕ",Lira TV Italia
@@ -8627,30 +8416,20 @@ http://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
 http://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Loe Media" tvg-logo="" group-title="РАЗНОЕ",Loe Media
 https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOGOS TV KIDS" tvg-logo="" group-title="РАЗНОЕ",LOGOS TV KIDS
-http://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lombardia TV" tvg-logo="" group-title="РАЗНОЕ",Lombardia TV
 https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Looloo Kids TV" tvg-logo="" group-title="РАЗНОЕ",Looloo Kids TV
-http://86.124.20.15:50013
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lori TV ARM" tvg-logo="" group-title="РАЗНОЕ",Lori TV ARM
 http://45.11.139.43:8555/lori/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Nature" tvg-logo="" group-title="РАЗНОЕ",Love Nature
 https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love World Arabic" tvg-logo="" group-title="РАЗНОЕ",Love World Arabic
-http://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love World Pacifics" tvg-logo="" group-title="РАЗНОЕ",Love World Pacifics
 http://go5lm6a6dawb-hls-live.5centscdn.com/6731_push_2488_001/bfbb1582812b8f8194c755a88c3abe9e.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love World SAT" tvg-logo="" group-title="РАЗНОЕ",Love World SAT
 https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love World USA" tvg-logo="" group-title="РАЗНОЕ",Love World USA
 https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/LWU/lwu.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LTV DE" tvg-logo="" group-title="РАЗНОЕ",LTV DE
-https://live2.telvi.de/hls/l-tv_s1_hd720.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LTV7" tvg-logo="" group-title="РАЗНОЕ",LTV7
 http://84.32.80.23/LTV7/index.m3u8?token=test
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Luna TV" tvg-logo="" group-title="РАЗНОЕ",Luna TV
-https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Luxury" tvg-logo="" group-title="РАЗНОЕ",Luxury
 http://s1.tv-nano.com/Luxury_rec/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Luxury HD" tvg-logo="" group-title="РАЗНОЕ",Luxury HD
@@ -8671,8 +8450,6 @@ http://49.0.64.96:8007/M2ROCK
 https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4 Sport" tvg-logo="" group-title="РАЗНОЕ",M4 Sport
 http://dvr1.kablova.tv/M4/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M6 COUNTRY" tvg-logo="" group-title="РАЗНОЕ",M6 COUNTRY
-http://49.0.64.96:8007/M6COUNTRY
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M9 TV Romania" tvg-logo="" group-title="РАЗНОЕ",M9 TV Romania
 http://netstreaming.eu/m9tv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M95 TV" tvg-logo="" group-title="РАЗНОЕ",M95 TV
@@ -8709,8 +8486,6 @@ https://flussonic.salomtv.uz/Makon_TV/video.m3u8
 https://flussonic.salomtv.uz/Makon_TV/video.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malchin TV" tvg-logo="" group-title="РАЗНОЕ",Malchin TV
 https://cdn4.skygo.mn/live/disk1/Malchin/HLS-FTA/Malchin.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malder Все ТВ" tvg-logo="" group-title="РАЗНОЕ",Malder Все ТВ
-http://195.9.195.3:8080/hls/153640.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manas TV" tvg-logo="" group-title="РАЗНОЕ",Manas TV
 http://212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Marao TV" tvg-logo="" group-title="РАЗНОЕ",Marao TV
@@ -8719,8 +8494,6 @@ http://94.43.1.138:8081/MARAO/index.m3u8
 http://1601580044.rsc.cdn77.org/live/_jcn_/PALMIAMI/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maria Vision Mexico" tvg-logo="" group-title="РАЗНОЕ",Maria Vision Mexico
 http://1601580044.rsc.cdn77.org/live/_jcn_/Mariavision/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Markiza Klasik" tvg-logo="" group-title="РАЗНОЕ",Markiza Klasik
-https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Markiza TV" tvg-logo="" group-title="РАЗНОЕ",Markiza TV
 http://dvr1.kablova.tv/Markiza/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Matas TV" tvg-logo="" group-title="РАЗНОЕ",Matas TV
@@ -8815,8 +8588,6 @@ https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 https://live.mnb.mn/hls/mnb_world.stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNET" tvg-logo="" group-title="РАЗНОЕ",MNET
 http://ares.mnet.mk/hls/mnet.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNET Gourmet" tvg-logo="" group-title="РАЗНОЕ",MNET Gourmet
-http://ares.mnet.mk/hls/mnet-gourmet.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNET Kids" tvg-logo="" group-title="РАЗНОЕ",MNET Kids
 http://ares.mnet.mk/hls/mnet-kids.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNET Sport" tvg-logo="" group-title="РАЗНОЕ",MNET Sport
@@ -8845,8 +8616,6 @@ http://41.205.93.154/MSNBC/index.m3u8
 http://85.11.144.6:6060/play/a08w/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="" group-title="РАЗНОЕ",MTV
 http://85.11.144.6:6060/play/a08w/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Classic" tvg-logo="" group-title="РАЗНОЕ",MTV Classic
-http://fl61.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Espanol" tvg-logo="" group-title="РАЗНОЕ",MTV Espanol
 http://92.118.251.84:8080/MTV/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Europe" tvg-logo="" group-title="РАЗНОЕ",MTV Europe
@@ -8869,12 +8638,6 @@ http://195.9.195.3:8080/hls/175789.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/mtv-azerbaycan.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My5 TV" tvg-logo="" group-title="РАЗНОЕ",My5 TV
 https://st.my5.media/hls/hd/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MyTV Plus" tvg-logo="" group-title="РАЗНОЕ",MyTV Plus
-https://h056.video-stream-hosting.de/easycast10-live/_definst_/mp4:livestreamhd82/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="N1 Bosnia" tvg-logo="" group-title="РАЗНОЕ",N1 Bosnia
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="N1 Hrvatska" tvg-logo="" group-title="РАЗНОЕ",N1 Hrvatska
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nano" tvg-logo="" group-title="РАЗНОЕ",Nano
 http://s1.tv-nano.com/Nano_rec/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nano TV HD" tvg-logo="" group-title="РАЗНОЕ",Nano TV HD
@@ -8887,8 +8650,6 @@ http://185.164.82.18:9010/ykMHqK_NatGeo
 http://190.11.225.124:5000/live/natgeo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild" tvg-logo="" group-title="РАЗНОЕ",Nat Geo Wild
 http://185.164.82.18:9010/ykMHqK_NatGeoWild
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild BG" tvg-logo="" group-title="РАЗНОЕ",Nat Geo Wild BG
-http://78.108.244.134:8899/ngw
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild Bosnia" tvg-logo="" group-title="РАЗНОЕ",Nat Geo Wild Bosnia
 http://5.57.74.130:8000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="РАЗНОЕ",Nat Geo Wild HD
@@ -8897,8 +8658,6 @@ http://188.237.47.212:6005
 http://188.237.47.212:6005
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nature Time TV" tvg-logo="" group-title="РАЗНОЕ",Nature Time TV
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Navahang TV" tvg-logo="" group-title="РАЗНОЕ",Navahang TV
-https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC" tvg-logo="" group-title="РАЗНОЕ",NBC
 http://4.59.210.197:8815/udp/127.0.0.1:6009
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC 6 South Florida" tvg-logo="" group-title="РАЗНОЕ",NBC 6 South Florida
@@ -8923,8 +8682,6 @@ https://n2ctsota.akamaized.net/hls/live/2113130/Live_1/index.m3u8
 https://next-tv.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Next TV" tvg-logo="" group-title="РАЗНОЕ",Next TV
 http://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHK World Premium" tvg-logo="" group-title="РАЗНОЕ",NHK World Premium
-https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NHL TV" tvg-logo="" group-title="РАЗНОЕ",NHL TV
 http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr" tvg-logo="" group-title="РАЗНОЕ",Nick Jr
@@ -8953,8 +8710,6 @@ http://176.10.117.68:6060/nitro/tracks-v1a1/mono.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOA 4 Hamburg" tvg-logo="" group-title="РАЗНОЕ",NOA 4 Hamburg
 https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOA 4 Norderstedt" tvg-logo="" group-title="РАЗНОЕ",NOA 4 Norderstedt
-https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Noor Dubai TV" tvg-logo="" group-title="РАЗНОЕ",Noor Dubai TV
 https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b2400000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Notele TV" tvg-logo="" group-title="РАЗНОЕ",Notele TV
@@ -9037,34 +8792,20 @@ http://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamsche
 http://streamer05.low-latency.cz/oiktv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OK Dessau" tvg-logo="" group-title="РАЗНОЕ",OK Dessau
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-dessau_high/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OK Kiel TV" tvg-logo="" group-title="РАЗНОЕ",OK Kiel TV
-http://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OK Salzwedel" tvg-logo="" group-title="РАЗНОЕ",OK Salzwedel
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-salzwedel_high/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OK Stendal" tvg-logo="" group-title="РАЗНОЕ",OK Stendal
-http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-stendal_high/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OK Wernigerode" tvg-logo="" group-title="РАЗНОЕ",OK Wernigerode
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-wernigerode_high/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OK Wettin" tvg-logo="" group-title="РАЗНОЕ",OK Wettin
-http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-wettin_high/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Okto TV" tvg-logo="" group-title="РАЗНОЕ",Okto TV
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OLD Series" tvg-logo="" group-title="РАЗНОЕ",OLD Series
 http://200.194.238.229:8383/live/oldseries/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oldies Hits" tvg-logo="" group-title="РАЗНОЕ",Oldies Hits
-http://video07.logicahost.com.br/oldieshits/oldieshits/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Olelo 49" tvg-logo="" group-title="РАЗНОЕ",Olelo 49
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_009/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Olelo 53" tvg-logo="" group-title="РАЗНОЕ",Olelo 53
-https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_011/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Olelo 55" tvg-logo="" group-title="РАЗНОЕ",Olelo 55
-https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_013/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman Culture" tvg-logo="" group-title="РАЗНОЕ",Oman Culture
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b2700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oman Mubasher" tvg-logo="" group-title="РАЗНОЕ",Oman Mubasher
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Omroep Almere" tvg-logo="" group-title="РАЗНОЕ",Omroep Almere
-https://wowza1.videostreamingwowza.com/almere-event/almere-event/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Omroep Flevoland" tvg-logo="" group-title="РАЗНОЕ",Omroep Flevoland
 http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/2000/prog_index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Omroep Flevoland Radio" tvg-logo="" group-title="РАЗНОЕ",Omroep Flevoland Radio
@@ -9083,8 +8824,6 @@ http://ms7.mx-cd.net/dtv-10/137-567119/Omroep_PIM.stream/chunklist.m3u8
 http://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ON TV" tvg-logo="" group-title="РАЗНОЕ",ON TV
 https://load-balancer.azotosolutions.com/cdnedge7/smil:live7.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Onda Algeciras" tvg-logo="" group-title="РАЗНОЕ",Onda Algeciras
-http://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Onda Novara TV" tvg-logo="" group-title="РАЗНОЕ",Onda Novara TV
 https://585b674743bbb.streamlock.net/9006/9006/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Onda TV" tvg-logo="" group-title="РАЗНОЕ",Onda TV
@@ -9101,10 +8840,6 @@ http://ms10.mx-cd.net/tv/Podium_Rotterdam.stream/playlist.m3u8
 https://5a1178b42cc03.streamlock.net/tvopoja/tvopoja/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ora News" tvg-logo="" group-title="РАЗНОЕ",Ora News
 http://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orient TV Palestine" tvg-logo="" group-title="РАЗНОЕ",Orient TV Palestine
-http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orizont TV" tvg-logo="" group-title="РАЗНОЕ",Orizont TV
-http://185.128.97.154:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ORLER TV" tvg-logo="" group-title="РАЗНОЕ",ORLER TV
 https://w1.mediastreaming.it/orlertv/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ORTS" tvg-logo="" group-title="РАЗНОЕ",ORTS
@@ -9125,8 +8860,6 @@ https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 https://pac12-roku-us.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Padre Pio TV" tvg-logo="" group-title="РАЗНОЕ",Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paideuma TV" tvg-logo="" group-title="РАЗНОЕ",Paideuma TV
-https://paideuma.tv:1443/live/Channel2728/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paka Paka" tvg-logo="" group-title="РАЗНОЕ",Paka Paka
 http://201.217.246.177:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Palestine Satellite Channel" tvg-logo="" group-title="РАЗНОЕ",Palestine Satellite Channel
@@ -9181,14 +8914,10 @@ https://familyhls.persiana.live/hls/stream.m3u8
 https://sonhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Persiana HD" tvg-logo="" group-title="РАЗНОЕ",Persiana HD
 https://euhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Persiana Iranian" tvg-logo="" group-title="РАЗНОЕ",Persiana Iranian
-https://irhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Persiana Korea" tvg-logo="" group-title="РАЗНОЕ",Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Persiana Latino" tvg-logo="" group-title="РАЗНОЕ",Persiana Latino
 https://latinohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Persiana Music" tvg-logo="" group-title="РАЗНОЕ",Persiana Music
-https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Persiana Nostalgia" tvg-logo="" group-title="РАЗНОЕ",Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Persiana Realiti" tvg-logo="" group-title="РАЗНОЕ",Persiana Realiti
@@ -9225,8 +8954,6 @@ http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/H1s_0utput/PWR_LTU_Live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POWER LOVE" tvg-logo="" group-title="РАЗНОЕ",POWER LOVE
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POWER TURK" tvg-logo="" group-title="РАЗНОЕ",POWER TURK
-http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POWER TURK AKUSTIK" tvg-logo="" group-title="РАЗНОЕ",POWER TURK AKUSTIK
 http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POWER TURK SLOW" tvg-logo="" group-title="РАЗНОЕ",POWER TURK SLOW
@@ -9259,8 +8986,6 @@ https://live-streaming.dpgmedia.net/qmusic-nl-srt-y1xf5lha3ebd4eaq0tcup2rm6umy7/
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/4.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qatar TV 2" tvg-logo="" group-title="РАЗНОЕ",Qatar TV 2
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/4.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="QS24 TV" tvg-logo="" group-title="РАЗНОЕ",QS24 TV
-https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Quahz TV" tvg-logo="" group-title="РАЗНОЕ",Quahz TV
 https://quahztv.akamaized.net/ch1_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Quahz TV Music" tvg-logo="" group-title="РАЗНОЕ",Quahz TV Music
@@ -9331,16 +9056,10 @@ http://lova.me/hls/hit.m3u8
 http://stream.a1mediagroep.eu/hls/a1tv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Accent TV" tvg-logo="" group-title="РАЗНОЕ",Radio Accent TV
 https://ms2.mx-cd.net/tv/284-3222272/AccentTV.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Aire de Santa Fe" tvg-logo="" group-title="РАЗНОЕ",Radio Aire de Santa Fe
-https://unlimited1-us.dps.live/airedesantafetv/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Aktual TV" tvg-logo="" group-title="РАЗНОЕ",Radio Aktual TV
-http://radio.serv.si/AktualTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Anni 80" tvg-logo="" group-title="РАЗНОЕ",Radio Anni 80
 https://585b674743bbb.streamlock.net/9076/9076/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Antenna Sud" tvg-logo="" group-title="РАЗНОЕ",Radio Antenna Sud
 https://stream10.xdevel.com/video0s977364-1905/stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Best TV" tvg-logo="" group-title="РАЗНОЕ",Radio Best TV
-http://radio.serv.si/BestTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Bianconera TV" tvg-logo="" group-title="РАЗНОЕ",Radio Bianconera TV
 https://tmw.fluid.stream/RadioBianconeraTV/livestream/chunklist.m3u8?FLID=1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Birikina TV" tvg-logo="" group-title="РАЗНОЕ",Radio Birikina TV
@@ -9383,8 +9102,6 @@ http://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuS
 https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Gold TV" tvg-logo="" group-title="РАЗНОЕ",Radio Gold TV
 https://cdn119-it.azotosolutions.com:8443/cdnedge5/smil:live5.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Good Sound" tvg-logo="" group-title="РАЗНОЕ",Radio Good Sound
-https://h002.video-stream-hosting.de/goodsound-live/_definst_/smil:livestream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Gorazde" tvg-logo="" group-title="РАЗНОЕ",Radio Gorazde
 https://webtvstream.bhtelecom.ba/radio_gorazde.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Hit FM (Moldova)" tvg-logo="" group-title="РАЗНОЕ",Radio Hit FM (Moldova)
@@ -9411,8 +9128,6 @@ https://56b50ada2d659.streamlock.net/LoveFM/livestream/chunklist.m3u8
 http://video.m-1.fm/m-1/smil:m-1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio MBC FM" tvg-logo="" group-title="РАЗНОЕ",Radio MBC FM
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Metropolitana FM" tvg-logo="" group-title="РАЗНОЕ",Radio Metropolitana FM
-http://tv02.zas.media:1935/ramevale/ramevale/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Milazzo TV" tvg-logo="" group-title="РАЗНОЕ",Radio Milazzo TV
 https://5926fc9c7c5b2.streamlock.net/9318/9318/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio NRJ Belgique" tvg-logo="" group-title="РАЗНОЕ",Radio NRJ Belgique
@@ -9471,16 +9186,10 @@ http://5b33b873179a2.streamlock.net:1935/radiouniao/radiouniao/playlist.m3u8
 http://stream.radiovan.fm/stream/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Veronica" tvg-logo="" group-title="РАЗНОЕ",Radio Veronica
 https://mediahuis.akamaized.net/clear/veronica/sc-gaFEAQ/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Weert FM" tvg-logo="" group-title="РАЗНОЕ",Radio Weert FM
-http://ms7.mx-cd.net/tv/109-573495/WeertFM_TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Weser TV" tvg-logo="" group-title="РАЗНОЕ",Radio Weser TV
 https://h057.video-stream-hosting.de/radiowesertv-live/_definst_/mp4:livestreamTV/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio WLNG" tvg-logo="" group-title="РАЗНОЕ",Radio WLNG
-http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio ZO!34 TV" tvg-logo="" group-title="РАЗНОЕ",Radio ZO!34 TV
 https://video.uitzending.tv:19360/zo34/zo34.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Zuerisee" tvg-logo="" group-title="РАЗНОЕ",Radio Zuerisee
-https://livevideo.netconnect.ch/radiozuerisee/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio-Tele 4VEH" tvg-logo="" group-title="РАЗНОЕ",Radio-Tele 4VEH
 https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radiolina" tvg-logo="" group-title="РАЗНОЕ",Radiolina
@@ -9509,12 +9218,8 @@ http://92.86.248.141:8080/ram/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RBW" tvg-logo="" group-title="РАЗНОЕ",RBW
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/rbw_high/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RCG TV" tvg-logo="" group-title="РАЗНОЕ",RCG TV
-http://video1.getstreamhosting.com:1935/8172/8172/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RCG TV 28.2" tvg-logo="" group-title="РАЗНОЕ",RCG TV 28.2
 http://video1.getstreamhosting.com:1935/8246/8246/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RCG TV 28.3" tvg-logo="" group-title="РАЗНОЕ",RCG TV 28.3
-http://video1.getstreamhosting.com:1935/8032/8032/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RDS Social TV" tvg-logo="" group-title="РАЗНОЕ",RDS Social TV
 https://stream.rdstv.radio/index_3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RE TV" tvg-logo="" group-title="РАЗНОЕ",RE TV
@@ -9545,8 +9250,6 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 http://streaming03.zas.media:1935/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rede Brasil" tvg-logo="" group-title="РАЗНОЕ",Rede Brasil
 http://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rede TV Parana" tvg-logo="" group-title="РАЗНОЕ",Rede TV Parana
-http://tv02.zas.media:1935/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Reggio TV" tvg-logo="" group-title="РАЗНОЕ",Reggio TV
 http://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Regio 8 TV" tvg-logo="" group-title="РАЗНОЕ",Regio 8 TV
@@ -9561,26 +9264,16 @@ http://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/66d4ac8748ce4a9298b4e40e48d1ae2f/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rete 8" tvg-logo="" group-title="РАЗНОЕ",Rete 8
 https://64b16f23efbee.streamlock.net/rete8/rete8/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rete 8 Sport" tvg-logo="" group-title="РАЗНОЕ",Rete 8 Sport
-https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Music" tvg-logo="" group-title="РАЗНОЕ",Retro Music
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Retro Plus TV 2" tvg-logo="" group-title="РАЗНОЕ",Retro Plus TV 2
 https://scl.edge.grupoz.cl/retroplustvdos/live/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Reuters TV" tvg-logo="" group-title="РАЗНОЕ",Reuters TV
 https://d2kjqd7acfrwt3.cloudfront.net/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RFH TV" tvg-logo="" group-title="РАЗНОЕ",RFH TV
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/RFH_high/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RFO TV" tvg-logo="" group-title="РАЗНОЕ",RFO TV
-http://stream01.stream.welocal.world/stream/fhd-rfo_66876/stream_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Right Now TV" tvg-logo="" group-title="РАЗНОЕ",Right Now TV
 https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rimex TV" tvg-logo="" group-title="РАЗНОЕ",Rimex TV
-https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RING HD" tvg-logo="" group-title="РАЗНОЕ",RING HD
 http://85.11.144.6:6060/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC 101 TV" tvg-logo="" group-title="РАЗНОЕ",RMC 101 TV
-https://5db313b643fd8.streamlock.net/RMC101TV/RMC101TV/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RN TV" tvg-logo="" group-title="РАЗНОЕ",RN TV
 http://v1.mediastreaming.ro/stream/hls/ploiestitv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rock TV (ROM)" tvg-logo="" group-title="РАЗНОЕ",Rock TV (ROM)
@@ -9599,16 +9292,12 @@ http://video03.logicahost.com.br/rssports4/rssports4/playlist.m3u8
 http://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS News Sports 6" tvg-logo="" group-title="РАЗНОЕ",RS News Sports 6
 http://video03.logicahost.com.br/rstv/rstv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RS News Sports 7" tvg-logo="" group-title="РАЗНОЕ",RS News Sports 7
-http://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT" tvg-logo="" group-title="РАЗНОЕ",RT
 http://31.148.48.15:80/RT_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT" tvg-logo="" group-title="РАЗНОЕ",RT
 https://hugh.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT Док" tvg-logo="" group-title="РАЗНОЕ",RT Док
 http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT Док (English)" tvg-logo="" group-title="РАЗНОЕ",RT Док (English)
-http://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT Док HD" tvg-logo="" group-title="РАЗНОЕ",RT Док HD
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT Arabic" tvg-logo="" group-title="РАЗНОЕ",RT Arabic
@@ -9679,14 +9368,8 @@ http://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/tracks-v3a1/mon
 http://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL 102.5" tvg-logo="" group-title="РАЗНОЕ",RTL 102.5
 http://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b3256000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL 102.5 Best" tvg-logo="" group-title="РАЗНОЕ",RTL 102.5 Best
-https://streamcdng2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/chunklist_b3256000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL 102.5 Bro & Sis" tvg-logo="" group-title="РАЗНОЕ",RTL 102.5 Bro & Sis
-https://streamcdng2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/chunklist_b3256000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL 102.5 Caliente" tvg-logo="" group-title="РАЗНОЕ",RTL 102.5 Caliente
 https://streamcdnb3-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/chunklist_b3256000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL 102.5 Disco" tvg-logo="" group-title="РАЗНОЕ",RTL 102.5 Disco
-https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/chunklist_b3256000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL 102.5 Napule" tvg-logo="" group-title="РАЗНОЕ",RTL 102.5 Napule
 http://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/chunklist_b3256000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL 102.5 Traffic" tvg-logo="" group-title="РАЗНОЕ",RTL 102.5 Traffic
@@ -9725,8 +9408,6 @@ https://webtvstream.bhtelecom.ba/rts_svet.m3u8
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 1" tvg-logo="" group-title="РАЗНОЕ",RTV 1
 http://5.57.74.130:8000/play/a01a/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV BESA" tvg-logo="" group-title="РАЗНОЕ",RTV BESA
-http://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/ehn-g2o-v7w-nh4/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Diocesana Toledo" tvg-logo="" group-title="РАЗНОЕ",RTV Diocesana Toledo
 https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Dordrecht" tvg-logo="" group-title="РАЗНОЕ",RTV Dordrecht
@@ -9759,14 +9440,10 @@ https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8
 https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch01/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV San Marino Radio Classic" tvg-logo="" group-title="РАЗНОЕ",RTV San Marino Radio Classic
 https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch02/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Utrecht" tvg-logo="" group-title="РАЗНОЕ",RTV Utrecht
-http://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Vechtdal" tvg-logo="" group-title="РАЗНОЕ",RTV Vechtdal
 http://ms2.mx-cd.net/tv/81-334271/VechtdalTV.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Westerwolde" tvg-logo="" group-title="РАЗНОЕ",RTV Westerwolde
 http://media.rtvwesterwolde.nl/hls/live/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Zenica" tvg-logo="" group-title="РАЗНОЕ",RTV Zenica
-http://stream.rtvze.ba/live/123/123.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Zulthe" tvg-logo="" group-title="РАЗНОЕ",RTV Zulthe
 http://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV21" tvg-logo="" group-title="РАЗНОЕ",RTV21
@@ -9781,8 +9458,6 @@ http://88.212.7.11/live/test_rtvs_sport_hevc/playlist.m3u8
 http://31.148.48.15:80/RU_TV/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RU TV" tvg-logo="" group-title="РАЗНОЕ",RU TV
 https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RU TV HD" tvg-logo="" group-title="РАЗНОЕ",RU TV HD
-https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RU TV HD" tvg-logo="" group-title="РАЗНОЕ",RU TV HD
 https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RU.TV" tvg-logo="" group-title="РАЗНОЕ",RU.TV
@@ -9819,16 +9494,12 @@ https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
 https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RUV TV" tvg-logo="" group-title="РАЗНОЕ",RUV TV
 https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl/stream5.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Saalbach TV" tvg-logo="" group-title="РАЗНОЕ",Saalbach TV
-https://livestream.saalbach.com/SaalbachTV/SaalbachTV_LiveStream.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Saarland TV 1" tvg-logo="" group-title="РАЗНОЕ",Saarland TV 1
 http://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sachsen Fernsehen Chemnitz" tvg-logo="" group-title="РАЗНОЕ",Sachsen Fernsehen Chemnitz
 http://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sachsen Fernsehen Leipzig" tvg-logo="" group-title="РАЗНОЕ",Sachsen Fernsehen Leipzig
 http://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Samen 1 TV" tvg-logo="" group-title="РАЗНОЕ",Samen 1 TV
-http://server-67.stream-server.nl:1935/Samen1TV/Samen1TV/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Samnaun TV" tvg-logo="" group-title="РАЗНОЕ",Samnaun TV
 http://streaming12.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="San Roque TV" tvg-logo="" group-title="РАЗНОЕ",San Roque TV
@@ -9892,13 +9563,7 @@ https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shop LC" tvg-logo="" group-title="РАЗНОЕ",Shop LC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/07.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shopping Live" tvg-logo="" group-title="РАЗНОЕ",Shopping Live
-http://origin5.mediacdn.ru/live/shoppinglivedist/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shopping Live" tvg-logo="" group-title="РАЗНОЕ",Shopping Live
-http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shopping Live" tvg-logo="" group-title="РАЗНОЕ",Shopping Live
 http://shoppinglive.mediacdn.ru/cdn/shopping/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Show Plus TV" tvg-logo="" group-title="РАЗНОЕ",Show Plus TV
-https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sigma TV" tvg-logo="" group-title="РАЗНОЕ",Sigma TV
 https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Silk Way Cinema" tvg-logo="" group-title="РАЗНОЕ",Silk Way Cinema
@@ -9919,8 +9584,6 @@ http://pop3.akamaized.net/SilkwayTurkish.m3u8
 http://pop3.akamaized.net/SilkwayUzbek.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKAI" tvg-logo="" group-title="РАЗНОЕ",SKAI
 http://176.65.146.224:8301/play/a060/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Folk TV" tvg-logo="" group-title="РАЗНОЕ",Sky Folk TV
-http://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky News" tvg-logo="" group-title="РАЗНОЕ",Sky News
 http://5.57.74.130:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky News Arabia" tvg-logo="" group-title="РАЗНОЕ",Sky News Arabia
@@ -9945,8 +9608,6 @@ https://stream-23.mazana.tv/slagrmuzika.m3u8s
 https://stream-17.mazana.tv/slagrpremium.m3u8s
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Slavonska TV" tvg-logo="" group-title="РАЗНОЕ",Slavonska TV
 http://89.201.163.244:8080/hls/hdmi.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sochi 24" tvg-logo="" group-title="РАЗНОЕ",Sochi 24
-http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sochi Live" tvg-logo="" group-title="РАЗНОЕ",Sochi Live
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sochi Live HD" tvg-logo="" group-title="РАЗНОЕ",Sochi Live HD
@@ -10103,18 +9764,12 @@ http://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source
 https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T18" tvg-logo="" group-title="РАЗНОЕ",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T9 Italia" tvg-logo="" group-title="РАЗНОЕ",T9 Italia
-http://streaming.softwarecreation.it:1935/tnove/tnove/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tabii TV" tvg-logo="" group-title="РАЗНОЕ",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tabii TV" tvg-logo="" group-title="РАЗНОЕ",Tabii TV
-https://ceokzokgtd.fdc.ercdn.net/giuqlxwlrl/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Taevas TV7 (EST)" tvg-logo="" group-title="РАЗНОЕ",Taevas TV7 (EST)
 http://vod.tv7.fi:1935/tv7-ee/tv7-ee.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tag TV" tvg-logo="" group-title="РАЗНОЕ",Tag TV
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Taivas TV7 (FIN)" tvg-logo="" group-title="РАЗНОЕ",Taivas TV7 (FIN)
-http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Taroteame TV" tvg-logo="" group-title="РАЗНОЕ",Taroteame TV
 https://5d2733224ac48.streamlock.net/taroteame/tarot_web/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBMM" tvg-logo="" group-title="РАЗНОЕ",TBMM
@@ -10129,8 +9784,6 @@ https://s-pl-01.mediatool.tv/playout/tbn-abr/tracks-v1a1/mono.ts.m3u8
 https://5d23269b3ec0c.streamlock.net/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBS Seoul" tvg-logo="" group-title="РАЗНОЕ",TBS Seoul
 http://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TCM" tvg-logo="" group-title="РАЗНОЕ",TCM
-http://45.5.117.99:8000/play/a0jw/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TDI Radio TV" tvg-logo="" group-title="РАЗНОЕ",TDI Radio TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/0.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tebeo TV" tvg-logo="" group-title="РАЗНОЕ",Tebeo TV
@@ -10301,8 +9954,6 @@ http://89.232.68.194:8080/tmtv/tracks-v3a1/index.m3u8
 http://89.232.68.194:8080/tmtv/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TON TV" tvg-logo="" group-title="РАЗНОЕ",TON TV
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toon Cast" tvg-logo="" group-title="РАЗНОЕ",Toon Cast
-http://45.5.117.99:8000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Top Latino Radio" tvg-logo="" group-title="РАЗНОЕ",Top Latino Radio
 http://5cefcbf58ba2e.streamlock.net:1935/latino/latino.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Top Secret" tvg-logo="" group-title="РАЗНОЕ",Top Secret
@@ -10521,8 +10172,6 @@ https://videostudioris.sk/hls/tvm.m3u8
 http://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Nova Nordeste" tvg-logo="" group-title="РАЗНОЕ",TV Nova Nordeste
 https://acesso.ecast.site:3675/live/novatvlive.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Oberfranken" tvg-logo="" group-title="РАЗНОЕ",TV Oberfranken
-https://stream02.welocal.stream/stream/fhd-tvo_480355/stream_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Osem (SK)" tvg-logo="" group-title="РАЗНОЕ",TV Osem (SK)
 https://5b17837053cfa.streamlock.net/tv8/mp4:tv8.stream_360p/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV PERU" tvg-logo="" group-title="РАЗНОЕ",TV PERU
@@ -10553,8 +10202,6 @@ http://k20.usastreams.com:8080/tvsur/index.m3u8
 http://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_c32b30eb-5880-4020-b89f-7e7c2ac01405.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV XXI" tvg-logo="" group-title="РАЗНОЕ",TV XXI
 http://193.25.8.59:8000/XXI
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Zagora" tvg-logo="" group-title="РАЗНОЕ",TV Zagora
-http://zagoratv.ddns.net:8080/tvzagora.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1 (KG)" tvg-logo="" group-title="РАЗНОЕ",TV1 (KG)
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1 BG" tvg-logo="" group-title="РАЗНОЕ",TV1 BG
@@ -10567,24 +10214,12 @@ http://176.118.197.125/viju-TV1000/index.m3u8
 http://193.25.8.59:8000/TV1000
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 Русское кино" tvg-logo="" group-title="РАЗНОЕ",TV1000 Русское кино
 http://193.25.8.59:8000/TV1000RU
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 Русское Кино HD" tvg-logo="" group-title="РАЗНОЕ",TV1000 Русское Кино HD
-https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 action" tvg-logo="" group-title="РАЗНОЕ",TV1000 action
 http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 Action" tvg-logo="" group-title="РАЗНОЕ",TV1000 Action
 https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 Action" tvg-logo="" group-title="РАЗНОЕ",TV1000 Action
 https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 Action" tvg-logo="" group-title="РАЗНОЕ",TV1000 Action
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=g3a_GVQQWGx7BJjQCKghfA&e=1768216084&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 Action HD" tvg-logo="" group-title="РАЗНОЕ",TV1000 Action HD
-https://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 HD" tvg-logo="" group-title="РАЗНОЕ",TV1000 HD
-https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 HD" tvg-logo="" group-title="РАЗНОЕ",TV1000 HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=uvExutPkbf3-bl5Tz8feIA&e=1768216059&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 HD" tvg-logo="" group-title="РАЗНОЕ",TV1000 HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=uvExutPkbf3-bl5Tz8feIA&e=1768216059&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3V" tvg-logo="" group-title="РАЗНОЕ",TV3V
 http://tv3v.live-kd.com/live/tv3v/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4 GE" tvg-logo="" group-title="РАЗНОЕ",TV4 GE
@@ -10627,8 +10262,6 @@ https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVR de Chile" tvg-logo="" group-title="РАЗНОЕ",TVR de Chile
 http://unlimited1-us.dps.live/tvr/tvr.smil/tvr/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVR Folclor" tvg-logo="" group-title="РАЗНОЕ",TVR Folclor
-http://185.128.97.154:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVR Xenon" tvg-logo="" group-title="РАЗНОЕ",TVR Xenon
 https://load-balancer.azotosolutions.com/cdnedge4/smil:live4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVRS" tvg-logo="" group-title="РАЗНОЕ",TVRS
@@ -10675,10 +10308,6 @@ http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Urban TV Series" tvg-logo="" group-title="РАЗНОЕ",Urban TV Series
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Urfanatik TV" tvg-logo="" group-title="РАЗНОЕ",Urfanatik TV
-https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UStad TV" tvg-logo="" group-title="РАЗНОЕ",UStad TV
-http://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV CZ" tvg-logo="" group-title="РАЗНОЕ",UTV CZ
 http://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="V2 Beat HD" tvg-logo="" group-title="РАЗНОЕ",V2 Beat HD
@@ -10759,14 +10388,8 @@ http://mfe02.cliptv.az/dash/TV1000_SDdhopq23e.ism/playlist.mpd
 http://193.25.8.59:8000/TV1000RU
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju TV1000 Русское" tvg-logo="" group-title="РАЗНОЕ",Viju TV1000 Русское
 http://31.148.48.15:80/TV1000_Russkoe_kino/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000 romantica" tvg-logo="" group-title="РАЗНОЕ",viju TV1000 romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=Ned7ek8tbGcQkuE1EvW30w&e=1768216028&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000 romantica" tvg-logo="" group-title="РАЗНОЕ",viju TV1000 romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=Ned7ek8tbGcQkuE1EvW30w&e=1768216028&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Comedy HD" tvg-logo="" group-title="РАЗНОЕ",Viju+ Comedy HD
 http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Planet HD" tvg-logo="" group-title="РАЗНОЕ",Viju+ Planet HD
-https://livetv.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c4383cb23cc0a49f0c322c505ffd7b8b4774.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Sport" tvg-logo="" group-title="РАЗНОЕ",Viju+ Sport
 http://193.25.8.59:8000/viasatsport
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Sport" tvg-logo="" group-title="РАЗНОЕ",Viju+ Sport
@@ -10777,8 +10400,6 @@ https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8
 http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vip Comedy HD" tvg-logo="" group-title="РАЗНОЕ",Vip Comedy HD
 https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vip Megahit HD" tvg-logo="" group-title="РАЗНОЕ",Vip Megahit HD
-https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vip Serial HD" tvg-logo="" group-title="РАЗНОЕ",Vip Serial HD
 https://livetv.mylifeisgood.net.ru/channels/viju-serial.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vip Serial HD" tvg-logo="" group-title="РАЗНОЕ",Vip Serial HD
@@ -11057,10 +10678,6 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-name="Матч! HD" tvg-logo="" group-title="СПОРТ",Матч! HD
 http://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
-#EXTINF:-1 tvg-id="match-tv" tvg-name="Матч! HD" tvg-logo="" group-title="СПОРТ",Матч! HD
-https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! HD" tvg-logo="" group-title="СПОРТ",Матч! HD
-https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! HD" tvg-logo="" group-title="СПОРТ",Матч! HD
 https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мир Баскетбола HD" tvg-logo="" group-title="СПОРТ",Мир Баскетбола HD
@@ -11091,8 +10708,6 @@ https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd
 http://stream-msk-13.ott.tricolor.tv/dtv/id625_MSKSG-PVR-1--Start/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТАРТ HD" tvg-logo="" group-title="СПОРТ",СТАРТ HD
 https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТАРТ HD" tvg-logo="" group-title="СПОРТ",СТАРТ HD
-https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТВ Спорт" tvg-logo="" group-title="СПОРТ",ТВ Спорт
 http://stream-msk-06.ott.tricolor.tv/dtv/id733_MSKSG-PVR-1--Sportivnii/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
 #EXTINF:-1 tvg-id="football-ru" tvg-name="Телеканал Футбол" tvg-logo="https://iptvx.one/picons/football-ru.png" group-title="СПОРТ",Телеканал Футбол
@@ -11105,8 +10720,6 @@ https://s-footballive.pp.ua:8000/channel/65c83719/index.m3u8?q=1111e494ac105cde8
 http://hls127.freeott.top:8080/Football/video.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Хоккей ТВ" tvg-logo="" group-title="СПОРТ",Хоккей ТВ
 https://stream-msk-09.ott.tricolor.tv/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
-#EXTINF:-1 tvg-id="a-spor-tr" tvg-name="A Spor HD" tvg-logo="" group-title="СПОРТ",A Spor HD
-http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10165
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-name="A21 Network" tvg-logo="https://www.avm.gen.tr/resimler/network_kadin_1.jpg" group-title="СПОРТ",A21 Network
 https://tv.a21network.ru/content/37909/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Altitude Sports" tvg-logo="" group-title="СПОРТ",Altitude Sports
@@ -11185,10 +10798,6 @@ http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529591&extensi
 http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529592&extension=ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 HD" tvg-logo="" group-title="СПОРТ",Eurosport 2 HD
 https://flussonic.salomtv.uz/eurosport_2/video.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Extreme" tvg-logo="" group-title="СПОРТ",Extreme
-http://45.11.139.43:8555/extsport/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Extreme Sports" tvg-logo="" group-title="СПОРТ",Extreme Sports
-http://45.11.139.43:8555/extsport/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FightBox" tvg-logo="" group-title="СПОРТ",FightBox
 http://193.25.8.59:8000/box
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FightBox" tvg-logo="" group-title="СПОРТ",FightBox
@@ -11207,14 +10816,6 @@ https://7pal.short.gy/fox502au
 https://7pal.short.gy/fox504au
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 504 HD 50fps" tvg-logo="" group-title="СПОРТ",Fox Sports 504 HD 50fps
 https://7pal.short.gy/fox504au
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 505 🛡️" tvg-logo="" group-title="СПОРТ",Fox Sports 505 🛡️
-https://7pal.short.gy/fox505au
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 506 🛡️" tvg-logo="" group-title="СПОРТ",Fox Sports 506 🛡️
-https://7pal.short.gy/fox506au
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 507 🛡️" tvg-logo="" group-title="СПОРТ",Fox Sports 507 🛡️
-https://7pal.short.gy/fox507au
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 507 🛡️" tvg-logo="" group-title="СПОРТ",Fox Sports 507 🛡️
-https://7pal.short.gy/fox507au
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Go3 Sport 2 FHD" tvg-logo="" group-title="СПОРТ",Go3 Sport 2 FHD
 http://ronaldo.tvfor.pro/rxprwMYEHq/l6i55j264w9187bml44emph2
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Go3 Sport Open HD" tvg-logo="" group-title="СПОРТ",Go3 Sport Open HD
@@ -11253,8 +10854,6 @@ http://wu6o1ur9.megatv.fun/iptv/W6K8TQWNXGPFK9AEPZSM795L/31612/index.m3u8
 http://stream.ads.ottera.tv/playlist.m3u8?network_id=2457
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moto America TV" tvg-logo="https://streamstak.com/motoamericatv/wp-content/uploads/sites/3/2021/10/motoamerica-logo-horizontal.png" group-title="СПОРТ",Moto America TV
 http://stream.ads.ottera.tv/playlist.m3u8?network_id=2457
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOTO GP HD 50fps" tvg-logo="" group-title="СПОРТ",MOTO GP HD 50fps
-https://7pal.short.gy/fox506au
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Motor Racing" tvg-logo="" group-title="СПОРТ",Motor Racing
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nesn" tvg-logo="" group-title="СПОРТ",Nesn
@@ -11313,52 +10912,24 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport 1 NZ 🛡️" tvg-logo="" group-title="СПОРТ",Sky Sport 1 NZ 🛡️
 https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport 2 NZ 🛡️" tvg-logo="" group-title="СПОРТ",Sky Sport 2 NZ 🛡️
-https://7pal.short.gy/skyspt2nz
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport 3 NZ 🛡️" tvg-logo="" group-title="СПОРТ",Sky Sport 3 NZ 🛡️
 https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport 4 NZ 🛡️" tvg-logo="" group-title="СПОРТ",Sky Sport 4 NZ 🛡️
-https://7pal.short.gy/skyspt4nz
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport F1 UHD 🛡️" tvg-logo="" group-title="СПОРТ",Sky Sport F1 UHD 🛡️
 https://7pal.short.gy/SSF1uhd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Football 🛡️" tvg-logo="" group-title="СПОРТ",Sky Sport Football 🛡️
-https://7pal.short.gy/ssportsfb
-#EXTINF:-1 tvg-id="sky-sport-mix-de" tvg-name="Sky Sport Mix [DE]" tvg-logo="" group-title="СПОРТ",Sky Sport Mix [DE]
-http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/426456
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport News 🛡️" tvg-logo="" group-title="СПОРТ",Sky Sport News 🛡️
 https://7pal.short.gy/ssportsnw
-#EXTINF:-1 tvg-id="sky-sport-pl-de" tvg-name="Sky Sport Premier League [DE]" tvg-logo="" group-title="СПОРТ",Sky Sport Premier League [DE]
-http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/426457
-#EXTINF:-1 tvg-id="sky-sport-tennis-de" tvg-name="Sky Sport Tennis [DE]" tvg-logo="" group-title="СПОРТ",Sky Sport Tennis [DE]
-http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/426455
-#EXTINF:-1 tvg-id="sky-sport-top-event-de" tvg-name="Sky Sport Top Event [DE]" tvg-logo="" group-title="СПОРТ",Sky Sport Top Event [DE]
-http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/426454
 #EXTINF:-1 tvg-id="Sky Sport UHD" tvg-name="Sky Sport UHD" tvg-logo="https://lighticons.art/storage/images/channels/51b1417b0107a1b7afc7a9c6c290bf80.png?d=1711532707" group-title="СПОРТ",Sky Sport UHD
 http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591247
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports 1 nz" tvg-logo="" group-title="СПОРТ",Sky Sports 1 nz
 https://7pal.short.gy/skyspt1nz
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports 1 NZ" tvg-logo="" group-title="СПОРТ",Sky Sports 1 NZ
 https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports 2 NZ" tvg-logo="" group-title="СПОРТ",Sky Sports 2 NZ
-https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports 2 NZ" tvg-logo="" group-title="СПОРТ",Sky Sports 2 NZ
-https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 tvg-id="4577" tvg-name="SKY SPORTS CRICKET UK" tvg-logo="http://epg.one/img2/4577.png" group-title="СПОРТ",SKY SPORTS CRICKET UK
-http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/45940
 #EXTINF:-1 tvg-id="4570" tvg-name="SKY SPORTS DARTS HD" tvg-logo="http://epg.one/img2/4570.png" group-title="СПОРТ",SKY SPORTS DARTS HD
 http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/53704
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports F1" tvg-logo="" group-title="СПОРТ",Sky Sports F1
-https://7pal.short.gy/ssportsf1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports F1" tvg-logo="" group-title="СПОРТ",Sky Sports F1
-https://7pal.short.gy/ssportsf1
-#EXTINF:-1 tvg-id="sky-sports-f1" tvg-name="Sky Sports F1 HD" tvg-logo="" group-title="СПОРТ",Sky Sports F1 HD
-http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/412606
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports F1 UHD" tvg-logo="" group-title="СПОРТ",Sky Sports F1 UHD
 https://7pal.short.gy/SSF1uhd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports F1 UHD" tvg-logo="" group-title="СПОРТ",Sky Sports F1 UHD
 https://7pal.short.gy/SSF1uhd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Football HD" tvg-logo="" group-title="СПОРТ",Sky Sports Football HD
-https://7pal.short.gy/ssportsfb
 #EXTINF:-1 tvg-id="4578" tvg-name="SKY SPORTS GOLF UK" tvg-logo="http://epg.one/img2/4578.png" group-title="СПОРТ",SKY SPORTS GOLF UK
 http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/35240
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports News" tvg-logo="" group-title="СПОРТ",Sky Sports News
@@ -11381,8 +10952,6 @@ http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/167743
 http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/167744
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport 4 HD" tvg-logo="" group-title="СПОРТ",Sport 4 HD
 http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/167745
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORT TV PLUS HD" tvg-logo="" group-title="СПОРТ",SPORT TV PLUS HD
-http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/2165
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sports Grid" tvg-logo="" group-title="СПОРТ",Sports Grid
 https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sports Grid" tvg-logo="" group-title="СПОРТ",Sports Grid
@@ -11391,12 +10960,8 @@ https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 tvg-id="tennis-cnl-us" tvg-name="Tennis Channel [US]" tvg-logo="https://epg.iptvx.one/picons/tennis-cnl-us.png" group-title="СПОРТ",Tennis Channel [US]
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sport 1 🛡️" tvg-logo="" group-title="СПОРТ",TNT Sport 1 🛡️
-https://7pal.short.gy/tntspts1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sport 2 🛡️" tvg-logo="" group-title="СПОРТ",TNT Sport 2 🛡️
 https://7pal.short.gy/tntspts2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sport 3 🛡️" tvg-logo="" group-title="СПОРТ",TNT Sport 3 🛡️
-https://7pal.short.gy/tntspts3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sport 4 🛡️" tvg-logo="" group-title="СПОРТ",TNT Sport 4 🛡️
 https://7pal.short.gy/tntspts4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports 1 HD" tvg-logo="" group-title="СПОРТ",TNT Sports 1 HD
@@ -11405,8 +10970,6 @@ https://7pal.short.gy/tntspts1
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47851.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports 3 HD" tvg-logo="" group-title="СПОРТ",TNT Sports 3 HD
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47852.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports 3 HD" tvg-logo="" group-title="СПОРТ",TNT Sports 3 HD
-https://7pal.short.gy/tntspts3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports 4 HD" tvg-logo="" group-title="СПОРТ",TNT Sports 4 HD
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47853.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports 4 HD" tvg-logo="" group-title="СПОРТ",TNT Sports 4 HD
@@ -11523,8 +11086,6 @@ http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
 https://edge56.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w357074489.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Сфера ТВ HD" tvg-logo="" group-title="СТРАНЫ",Сфера ТВ HD
 http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
-#EXTINF:-1 tvg-id="2355" tvg-name="Тернопіль 1 HD" tvg-logo="http://epg.it999.ru/img/2355.png" group-title="СТРАНЫ",Тернопіль 1 HD
-http://ott.columbus.te.ua/ternopil1/index.m3u8
 #EXTINF:-1 tvg-id="2171" tvg-name="ТЕТ" tvg-logo="http://epg.it999.ru/img/2171.png" group-title="СТРАНЫ",ТЕТ
 http://newsr1.roshen.live:8080/RmCD1qFmpl/video.m3u8?token=e2yXlI53mZEwBRDT
 #EXTINF:-1 tvg-id="3323" tvg-name="Україна HD" tvg-logo="http://epg.it999.ru/img/3323.png" group-title="СТРАНЫ",Україна HD
@@ -11533,12 +11094,8 @@ https://rpn3.bozztv.com/dvrfl07/ushba12/index.m3u8
 http://portal.ott.pink/C3UK_UATVRU/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
 #EXTINF:-1 tvg-id="2105" tvg-name="HTH" tvg-logo="http://epg.it999.ru/img/2105.png" group-title="СТРАНЫ",HTH
 http://newsr1.roshen.live:8080/7zaKQPjVK9/video.m3u8?token=e2yXlI53mZEwBRDT
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ICTV2 HD" tvg-logo="" group-title="СТРАНЫ",ICTV2 HD
-http://newsr1.roshen.live:8080/gIwnH2gybp/video.m3u8?token=e2yXlI53mZEwBRDT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV (Рівне)" tvg-logo="" group-title="СТРАНЫ",ITV (Рівне)
 http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NEWS 24 FHD" tvg-logo="" group-title="СТРАНЫ",NEWS 24 FHD
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OHT" tvg-logo="" group-title="СТРАНЫ",OHT
 https://edge56.dc.beltelecom.by/ont/_definst_/ont/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super+ HD" tvg-logo="" group-title="СТРАНЫ",Super+ HD
@@ -11661,8 +11218,6 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 http://31.131.141.195:8000/play/2070/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ЗВЕЗДА НД" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",ЗВЕЗДА НД
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Звезда Плюс" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",Звезда Плюс
-http://s2.cdntv.online/hls/fjc5d2vg7n/1331.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Звезда FHD.          LINA" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",Звезда FHD.          LINA
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Звезда HD" tvg-logo="https://iptvx.one/icn/zvezda.png" group-title="ФЕДЕРАЛЬНЫЕ",Звезда HD
